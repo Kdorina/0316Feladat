@@ -1,4 +1,12 @@
-
+/*
+* File: app.ts
+* Author: Kovács Dorina
+* Copyright: 2022, Kovács Dorina
+* Group: Szoft II/N
+* Date: 2022-10-20
+* Github: https://github.com/Kdorina/
+* Licenc: GNU GPL
+*/ 
 
 const calcBtn = document.querySelector('#calc');
 const eredmeny = document.querySelector("#eredmeny") as HTMLInputElement;
