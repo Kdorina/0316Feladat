@@ -1,0 +1,32 @@
+
+
+#aOldal{
+    border-radius: 5px;
+}
+#bOldal{
+    border-radius: 5px;
+}
+#cOldal{
+    border-radius: 5px;
+}
+#dOldal{
+    border-radius: 5px;
+}
+.szamit{
+    margin-top: 20px;
+    background-color: rgb(168, 195, 221);
+    padding: 20px;
+    position: absolute;
+    border-radius: 20px;
+}
+
+
+h1{
+   font-family: 'Times New Roman', Times, serif;
+   background-color: rgba(158, 158, 158, 0.286);
+   padding: 10px;
+   border-radius: 30px;
+   text-align: left;
+
+   
+}
