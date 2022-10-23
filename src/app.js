@@ -1,3 +1,12 @@
+/*
+* File: app.ts
+* Author: Kovács Dorina
+* Copyright: 2022, Kovács Dorina
+* Group: Szoft II/N
+* Date: 2022-10-20
+* Github: https://github.com/Kdorina/
+* Licenc: GNU GPL
+*/
 var calcBtn = document.querySelector('#calc');
 var eredmeny = document.querySelector("#eredmeny");
 calcBtn === null || calcBtn === void 0 ? void 0 : calcBtn.addEventListener('click', function () {
@@ -15,7 +24,7 @@ calcBtn === null || calcBtn === void 0 ? void 0 : calcBtn.addEventListener('clic
     bOldal.value = "";
     cOldal.value = "";
     dOldal.value = "";
-    alert(area);
+    // alert(area);
 });
 function szamitTerulet(aOldal, bOldal, cOldal, dOldal) {
     return (aOldal + cOldal) / (4 * (aOldal - cOldal))

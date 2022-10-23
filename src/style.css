@@ -21,20 +21,39 @@
     border-radius: 5px;
 }
 .szamit{
-    margin-top: 20px;
-    background-color: rgb(168, 195, 221);
+    margin-top: 0px;
+    background-color: #a0afcb;
     padding: 20px;
-    position: absolute;
+    width: fit-content;
     border-radius: 20px;
 }
 
 
-h1{
+h3{
    font-family: 'Times New Roman', Times, serif;
-   background-color: rgba(158, 158, 158, 0.286);
-   padding: 10px;
-   border-radius: 30px;
-   text-align: left;
+   font-size: 20px;
+}
+p{
+    float: left;
+    margin-left: 14px;
+}
+
+#calc{
+    background-color: #000000;
+    padding: 8px;
+    border: 0px ;
+    border-radius: 8px;
+    color: white;
+    
+    }   
+#calc:hover{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
 
    
+}
+
+#eredmeny{
+background-color: #ffffff;
+border-radius: 5px;
 }

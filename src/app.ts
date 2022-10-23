@@ -28,7 +28,7 @@ const dOldal = document.querySelector('#dOldal') as HTMLInputElement;
     bOldal.value="";
     cOldal.value="";
     dOldal.value="";
-    alert(area);
+   // alert(area);
 });
 
 function szamitTerulet
